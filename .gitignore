@@ -4,7 +4,6 @@ nets
 run_outputs
 trained_models
 vue-admin-design
-app.py
 requirements.txt
 Readme.md
 dataopt.ipynb
