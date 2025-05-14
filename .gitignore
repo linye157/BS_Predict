@@ -3,7 +3,8 @@ data
 nets
 run_outputs
 trained_models
-vue-admin-design
+data
+vue-admin-design/node_modules
 requirements.txt
 Readme.md
 dataopt.ipynb
